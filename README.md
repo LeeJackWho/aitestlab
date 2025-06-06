@@ -86,7 +86,7 @@ Nginx
 
 
 
-## 工具说明
+## AI工具使用
 
 在编写代码的过程中,本次笔者会尽可能的前端使用AI生成,后端大部分手写,小部分使用AI
 
@@ -172,7 +172,7 @@ AI 对话模块是自动化测试平台的智能助手组件，为测试人员�
 |------|------|----------|
 | **[项目设置](./docs/setup/)** | 环境搭建和架构 | [Makefile 指南](./docs/setup/MAKEFILE_GUIDE.md)、[架构说明](./docs/setup/FACTORY_PATTERN.md) |
 | **[开发指南](./docs/development/)** | 开发工具和实现 | [日志系统](./docs/development/LOGGING_GUIDE.md)、[Markdown 渲染](./docs/development/MARKDOWN_RENDERER.md) |
-| **[问题排查](./docs/troubleshooting/)** | 故障排除方案 | [AutoGen 修复](./docs/troubleshooting/AUTOGEN_FIXES.md)、[进程管理](./docs/troubleshooting/PROCESS_MANAGEMENT.md) |
+| **[问题排查](./docs/troubleshooting/)** | 故障排除方案 | [AutoGen 修复](./docs/troubleshooting/AUTOGEN_FIXES.md)、[进程管理](./docs/troubleshooting/PROCESS_MANAGEMENT.md)、[后端进程管理](./docs/troubleshooting/BACKEND_PROCESS_MANAGEMENT.md) |
 | **[设计文档](./docs/design/)** | UI/UX 设计 | [Gemini 对比](./docs/design/GEMINI_FEATURES_COMPARISON.md)、[测试示例](./docs/design/MARKDOWN_TEST_EXAMPLES.md) |
 
 **快速导航**：
